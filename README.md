@@ -1,12 +1,12 @@
-CID_048_Athena_Commando_F_HolidayGingerbread, 1500
-CID_049_Athena_Commando_M_HolidayGingerbread, 1500
-Pickaxe_ID_329_GingerbreadCookie1H, 0
+CID_818_Athena_Commando_F_NeonTightSuit_A, 1200
+CID_760_Athena_Commando_F_NeonTightSuit, 1200
+CID_820_Athena_Commando_F_NeonTightSuit_C, 1200
+CID_819_Athena_Commando_F_NeonTightSuit_B, 1200
 na
 na
-na
-BID_026_Brite, 600
-Wrap_016_CuddleTeam, 300
-EID_RockPaperScissors, 200
-EID_CrabDance, 500
-Pickaxe_Flamingo, 800
-CID_044_Athena_Commando_F_SciPop, 1200
+BID_496_TeriyakiFishAssassin, 400
+Wrap_073_TeriyakiFish2, 300
+EID_Doublesnap, 200
+EID_Laugh, 500
+Pickaxe_ID_179_StarWand, 800
+CID_722_Athena_Commando_M_TeriyakiFishAssassin, 1200
